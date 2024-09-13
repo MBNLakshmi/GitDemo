@@ -6,6 +6,13 @@ public class Appium {
   @Test
   public void appium() {
 	  System.out.println("mobile automation");
+	  
+	  System.out.println("mobile automation");
+	  System.out.println("mobile automation");
+	  System.out.println("mobile automation");
+	  
+	  System.out.println("mobile automation");
+	  System.out.println("mobile automation");
   }
   
   @Test

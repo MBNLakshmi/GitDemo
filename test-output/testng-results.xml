@@ -2,26 +2,26 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-09-13T17:39:31 IST" name="Suite" finished-at="2024-09-13T17:39:31 IST" duration-ms="143">
+  <suite started-at="2024-09-13T18:02:23 IST" name="Suite" finished-at="2024-09-13T18:02:23 IST" duration-ms="280">
     <groups>
     </groups>
-    <test started-at="2024-09-13T17:39:31 IST" name="Test" finished-at="2024-09-13T17:39:31 IST" duration-ms="143">
+    <test started-at="2024-09-13T18:02:23 IST" name="Test" finished-at="2024-09-13T18:02:23 IST" duration-ms="280">
       <class name="sampleone.Appium">
-        <test-method signature="appium()[pri:0, instance:sampleone.Appium@799f10e1]" started-at="2024-09-13T17:39:31 IST" name="appium" finished-at="2024-09-13T17:39:31 IST" duration-ms="14" status="PASS">
+        <test-method signature="appium()[pri:0, instance:sampleone.Appium@799f10e1]" started-at="2024-09-13T18:02:23 IST" name="appium" finished-at="2024-09-13T18:02:23 IST" duration-ms="21" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- appium -->
-        <test-method signature="mtest()[pri:0, instance:sampleone.Appium@799f10e1]" started-at="2024-09-13T17:39:31 IST" name="mtest" finished-at="2024-09-13T17:39:31 IST" duration-ms="9" status="PASS">
+        <test-method signature="mtest()[pri:0, instance:sampleone.Appium@799f10e1]" started-at="2024-09-13T18:02:23 IST" name="mtest" finished-at="2024-09-13T18:02:23 IST" duration-ms="16" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- mtest -->
       </class> <!-- sampleone.Appium -->
       <class name="sampleone.selenium">
-        <test-method signature="cucumber()[pri:0, instance:sampleone.selenium@4135c3b]" started-at="2024-09-13T17:39:31 IST" name="cucumber" finished-at="2024-09-13T17:39:31 IST" duration-ms="7" status="PASS">
+        <test-method signature="cucumber()[pri:0, instance:sampleone.selenium@4135c3b]" started-at="2024-09-13T18:02:23 IST" name="cucumber" finished-at="2024-09-13T18:02:23 IST" duration-ms="4" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cucumber -->
-        <test-method signature="testng()[pri:0, instance:sampleone.selenium@4135c3b]" started-at="2024-09-13T17:39:31 IST" name="testng" finished-at="2024-09-13T17:39:31 IST" duration-ms="5" status="PASS">
+        <test-method signature="testng()[pri:0, instance:sampleone.selenium@4135c3b]" started-at="2024-09-13T18:02:23 IST" name="testng" finished-at="2024-09-13T18:02:23 IST" duration-ms="13" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testng -->
